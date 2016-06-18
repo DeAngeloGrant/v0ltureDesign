@@ -1,0 +1,22 @@
+<!-- v0lture Programming 2016
+   This is our Font and color resource for mobile App projects.
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+
+    <!-- BG -->
+    <color name="v-bg-green">#ACFFA3</color>
+    <color name="v-bg-blue">#75C7FF</color>
+    <color name="v-bg-light-purple">#C630D1</color>
+    <color name="v-bg-dark-purple">#9233AF</color>
+    <color name="v-bg-grey">#4F5159</color>
+
+    <!-- FG -->
+    <color name="v-text-green">#ACFFA3</color>
+    <color name="v-text-blue">#75C7FF</color>
+    <color name="v-text-light-purple">#C630D1</color>
+    <color name="v-text-dark-purple">#9233AF</color>
+    <color name="v-text-grey">#4F5159</color>
+
+</resources>
